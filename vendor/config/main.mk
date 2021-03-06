@@ -9,8 +9,8 @@ PRODUCT_PACKAGES += \
     com.google.android.maps.jar
 
 # Seedvault
-PRODUCT_PACKAGES += \
-    Seedvault
+#PRODUCT_PACKAGES += \
+#    Seedvault
 
 # Fix for Google Camera
 PRODUCT_COPY_FILES += \
